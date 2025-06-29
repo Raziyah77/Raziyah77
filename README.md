@@ -2,9 +2,7 @@
 <!-- 🌟 GITHUB PROFILE README 📝 TEMPLATE 🌟 -->
 <!-- ================================ -->
 
-<p align="center">
-  <img src="https://i.imgur.com/L3p7M8R.png" alt="GitHub Banner" style="max-height: 300px; width: 100%; object-fit: cover;"/>
-</p>
+
 
 <h1 align="center">Hi there, I’m <span style="color:#f26d6d;">Raziyah Mwihaki</span> 👋</h1>
 <h3 align="center">Front‑End Web Developer · Community‑Driven Technologist · Lifelong Learner</h3>
@@ -59,14 +57,7 @@
   </tr>
 </table>
 
-<h2>📊 GitHub&nbsp;Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razmwihaki&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razmwihaki&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=razmwihaki&bg_color=FFFFFF&color=000000&line=6e6e6e&point=000000&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
+<!-- GitHub Stats section temporarily removed. Will be added back once everything is ready. -->
 
 <h2>✍️ Latest&nbsp;Articles &amp; Talks</h2>
 <p>Coming soon: I love sharing what I learn. Stay tuned for blog posts on front‑end tips, accessibility, and community tech initiatives.</p>
